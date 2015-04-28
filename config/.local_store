@@ -1,4 +1,30 @@
 {
+    "authorizeDotNetAPI.cls": {
+        "createdById": "0051a000000QyDFAA0", 
+        "createdByName": "RD Team", 
+        "createdDate": "2015-04-28 10:46:04", 
+        "fileName": "unpackaged/classes/authorizeDotNetAPI.cls", 
+        "fullName": "authorizeDotNetAPI", 
+        "id": "01p1a000000WsosAAC", 
+        "lastModifiedById": "0051a000000QyDFAA0", 
+        "lastModifiedByName": "RD Team", 
+        "lastModifiedDate": "2015-04-28 10:46:04", 
+        "mmState": "clean", 
+        "type": "ApexClass"
+    }, 
+    "authorizeDotNetAPI_Tests.cls": {
+        "createdById": "0051a000000QyDFAA0", 
+        "createdByName": "RD Team", 
+        "createdDate": "2015-04-28 10:49:49", 
+        "fileName": "unpackaged/classes/authorizeDotNetAPI_Tests.cls", 
+        "fullName": "authorizeDotNetAPI_Tests", 
+        "id": "01p1a000000Wt1QAAS", 
+        "lastModifiedById": "0051a000000QyDFAA0", 
+        "lastModifiedByName": "RD Team", 
+        "lastModifiedDate": "2015-04-28 10:49:49", 
+        "mmState": "clean", 
+        "type": "ApexClass"
+    }, 
     "stripeAPI.cls": {
         "createdById": "0051a000000QyDFAA0", 
         "createdByName": "RD Team", 
@@ -9,6 +35,19 @@
         "lastModifiedById": "0051a000000QyDFAA0", 
         "lastModifiedByName": "RD Team", 
         "lastModifiedDate": "2015-04-28 09:34:25", 
+        "mmState": "clean", 
+        "type": "ApexClass"
+    }, 
+    "stripeAPI_Tests.cls": {
+        "createdById": "0051a000000QyDFAA0", 
+        "createdByName": "RD Team", 
+        "createdDate": "2015-04-28 10:48:20", 
+        "fileName": "unpackaged/classes/stripeAPI_Tests.cls", 
+        "fullName": "stripeAPI_Tests", 
+        "id": "01p1a000000Wst5AAC", 
+        "lastModifiedById": "0051a000000QyDFAA0", 
+        "lastModifiedByName": "RD Team", 
+        "lastModifiedDate": "2015-04-28 10:48:20", 
         "mmState": "clean", 
         "type": "ApexClass"
     }
