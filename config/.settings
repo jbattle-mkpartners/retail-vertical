@@ -1,0 +1,19 @@
+{
+    "username": "retailvertical@mkplabs.com", 
+    "environment": "developer", 
+    "project_name": "retail-vertical", 
+    "workspace": "/Users/jbattle/Documents/mavensmate/workspaces", 
+    "org_url": "", 
+    "namespace": "", 
+    "id": "AIBY1QWILCGCP1DHRBMNNV7V6WDTIMC6", 
+    "metadata_container": "1dc1a00000093a7AAA", 
+    "subscription": [
+        "ApexClass", 
+        "ApexComponent", 
+        "ApexPage", 
+        "ApexTrigger", 
+        "StaticResource", 
+        "CustomObject", 
+        "Profile"
+    ]
+}

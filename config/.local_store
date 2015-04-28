@@ -1,0 +1,15 @@
+{
+    "stripeAPI.cls": {
+        "createdById": "0051a000000QyDFAA0", 
+        "createdByName": "RD Team", 
+        "createdDate": "2015-04-28 09:34:25", 
+        "fileName": "unpackaged/classes/stripeAPI.cls", 
+        "fullName": "stripeAPI", 
+        "id": "01p1a000000WruWAAS", 
+        "lastModifiedById": "0051a000000QyDFAA0", 
+        "lastModifiedByName": "RD Team", 
+        "lastModifiedDate": "2015-04-28 09:34:25", 
+        "mmState": "clean", 
+        "type": "ApexClass"
+    }
+}
